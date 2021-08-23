@@ -1,1 +1,3 @@
-videos-stream-client
+# Videos Stream Client
+
+stream.localhost.com
